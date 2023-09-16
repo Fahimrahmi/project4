@@ -1,0 +1,44 @@
+
+.container{
+    margin: 30px;
+}
+body{
+    margin: 0px 250px;   
+}
+header{
+    background-color: brown;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.first{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ede2e2;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+.second{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #e0d0d0;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+}
+.third{
+    display: flex;
+    align-items: center;
+}
+.para1{
+    width: 400px;
+    line-height: 25px;
+}
+.para2{
+    width: 430px;
+    line-height: 25px;
+}
+.para{
+    line-height: 20px;
+    width: 390px;
+}
